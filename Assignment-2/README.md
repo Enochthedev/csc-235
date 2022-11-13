@@ -17,7 +17,7 @@ For each test case print a single line containing the number of steps that Adam 
 Example
 |`Adam.in` |`Standard output`|
 |--------- |-----------------|
-|** 3**    |                 |
+|**3**     |                 |
 |*UUUDU*   |       3         |
 |*DDD*     |       0         |
 |*UU*	   |       2         |
@@ -65,8 +65,9 @@ ____
 
 
 
-/*Matric Number: 222507
+*Matric Number: 222507
 * Name: Omosebi Enoch
 * Program:The walking Adam
 * level: 200
-*/
+* Semester: 1
+* Course Code: CSC 235
