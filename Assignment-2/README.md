@@ -67,7 +67,7 @@ ____
 
 *Matric Number: 222507
 * Name: Omosebi Enoch
-* Program:The walking Adam
+* C Program name:The walking Adam
 * level: 200
 * Semester: 1
 * Course Code: CSC 235
