@@ -59,7 +59,9 @@ ____
             #else
                 #print count
                 #break
+                }
     }
+    #close the file 
     #end
 
 
