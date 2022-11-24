@@ -1,6 +1,6 @@
 This code is called the Walking adam - the goal of the code is to calculate the number of steps adam takes from the input file 
 
-#The Question
+# The Question
 Practical Assignment 2
 ___
 The Walking Adam
@@ -32,7 +32,7 @@ In the second test case, he falls down before making any steps.
 In the third test case, he doesn’t fall down at all.
 
 
-##The Algorithim 
+## The Algorithim 
 ____
     #Algorithim  of walking adam
     #start
@@ -44,7 +44,7 @@ ____
     #print the number of steps
     #end
 
-##The Pseudo-code
+## The Pseudo-code
 ____
     #Pseudo-code of walking adam
     #start
