@@ -5,7 +5,6 @@
 */
 /* write a code to get an inp*/
 #include <stdio.h>
-#include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
@@ -24,10 +23,13 @@ int self_describing(int num)
     {
         /* This is a for loop that is used to iterate through the length of the string. */
         count = 0;
+        /* This is converting the number to a string and then getting the length of the string. */
         digit = str[i] - '0';
         for(j = 0; j < len; j++)
         {
+          /* This is converting the number to a string and then getting the length of the string. */
             temp = str[j] - '0';
+           /* This is checking if the number is equal to the index of the string. */
             if(temp == i)
             {
                 count++;
